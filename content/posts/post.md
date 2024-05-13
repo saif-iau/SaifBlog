@@ -4,7 +4,7 @@ date = 2024-05-13T11:16:55+03:00
 
 +++
 
-# Hi, I'm [Your Name]
+# Hi, I'm Saif Alshaiban
 
 ## About Me
 - I'm a passionate Software Engineer with a strong foundation in Web development and Data science. My journey in technology began during my studies at Imam abdulrahman bin faisal university, where I graduated with a Bachelor of Science in Computer Science, achieving a GPA of 3.8/5. Since then, I've delved into various projects and roles, honing my skills and expanding my knowledge in Software engineering and managment.
