@@ -6,14 +6,22 @@
     <description>Recent content on Saif workplace</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2024 11:18:03 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 16:01:57 +0300</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back-End common mistakes</title>
+      <link>//localhost:1313/posts/backendmistakes/</link>
+      <pubDate>Mon, 13 May 2024 11:16:55 +0300</pubDate>
+      <guid>//localhost:1313/posts/backendmistakes/</guid>
+      <description>Best Practices and Common Mistakes in Backend Development Backend development is crucial for building robust and scalable web applications. However, even experienced developers can make mistakes that impact performance, security, and maintainability. In this article, we&amp;rsquo;ll explore some common backend mistakes and how to avoid them, with a focus on Node.js, Express.js, Django, MongoDB, Firebase, and related technologies.
+Security Best Practices Input Validation: Always sanitize user inputs to prevent SQL injection, XSS attacks, and other security vulnerabilities.</description>
+    </item>
     <item>
       <title>My Resume</title>
       <link>//localhost:1313/posts/post/</link>
       <pubDate>Mon, 13 May 2024 11:16:55 +0300</pubDate>
       <guid>//localhost:1313/posts/post/</guid>
-      <description>Hi, I&amp;rsquo;m [Your Name] About Me I&amp;rsquo;m a passionate Software Engineer with a strong foundation in Web development and Data science. My journey in technology began during my studies at Imam abdulrahman bin faisal university, where I graduated with a Bachelor of Science in Computer Science, achieving a GPA of 3.8/5. Since then, I&amp;rsquo;ve delved into various projects and roles, honing my skills and expanding my knowledge in Software engineering and managment.</description>
+      <description>Hi, I&amp;rsquo;m Saif Alshaiban About Me I&amp;rsquo;m a passionate Software Engineer with a strong foundation in Web development and Data science. My journey in technology began during my studies at Imam abdulrahman bin faisal university, where I graduated with a Bachelor of Science in Computer Science, achieving a GPA of 3.8/5. Since then, I&amp;rsquo;ve delved into various projects and roles, honing my skills and expanding my knowledge in Software engineering and managment.</description>
     </item>
   </channel>
 </rss>

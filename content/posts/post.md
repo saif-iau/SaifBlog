@@ -63,7 +63,7 @@ via API.]
   - Angular
   - Material UI
   - SCSS
-- **Link:** [Go tp porject](https://github.com/saif-iau/WeatherApp)
+- **Link:** [Go to porject](https://github.com/saif-iau/WeatherApp)
 
 ### Project 3: [IoT Smart home implementation using Arduino]
 - **Description:** [Led the creation of a cutting-edge IoT smart house prototype for my senior project,
