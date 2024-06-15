@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/pdfgenerator/</loc>
-    <lastmod>2024-05-21T21:07:23+03:00</lastmod>
+    <loc>//localhost:1313/posts/movie/</loc>
+    <lastmod>2024-06-15T09:02:28+03:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-05-21T21:07:23+03:00</lastmod>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-06-15T09:02:28+03:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-05-21T21:07:23+03:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-06-15T09:02:28+03:00</lastmod>
   </url><url>
-    <loc>/posts/backendmistakes/</loc>
+    <loc>//localhost:1313/posts/pdfgenerator/</loc>
+    <lastmod>2024-05-21T21:46:31+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/backendmistakes/</loc>
     <lastmod>2024-05-14T21:03:58+03:00</lastmod>
   </url><url>
-    <loc>/posts/post/</loc>
+    <loc>//localhost:1313/posts/post/</loc>
     <lastmod>2024-05-14T21:03:58+03:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

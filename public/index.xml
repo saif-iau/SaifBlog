@@ -2,32 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Saif workplace</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Saif workplace</description>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 21:07:23 +0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 09:02:28 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Booking System with expressJS</title>
+      <link>//localhost:1313/posts/movie/</link>
+      <pubDate>Sat, 15 Jun 2024 09:02:28 +0300</pubDate>
+      <guid>//localhost:1313/posts/movie/</guid>
+      <description>Building a Movie Reservation System with Node.js, Express.js, and MongoDB Introduction
+In this post, I will guide you through the process of building a simple movie reservation system using Node.js, Express.js, and MongoDB. This project will help you understand how to create a RESTful API with user authentication and perform CRUD operations on MongoDB.
+Project Overview
+The movie reservation system includes the following features:
+Movie Listing Endpoint : Retrieve a list of available movies.</description>
+    </item>
     <item>
       <title>Pdf Generator tutorial</title>
-      <link>/posts/pdfgenerator/</link>
+      <link>//localhost:1313/posts/pdfgenerator/</link>
       <pubDate>Tue, 21 May 2024 21:07:23 +0300</pubDate>
-      <guid>/posts/pdfgenerator/</guid>
+      <guid>//localhost:1313/posts/pdfgenerator/</guid>
       <description>Building a PDF Report Generator with Analytics Using the MERN Stack Ever wanted to create a professional-looking PDF report with embedded analytics? Today, I’ll walk you through how to build a PDF report generator using the MERN stack. We&amp;rsquo;ll use pdfMake for generating PDFs and eCharts for those sleek analytics charts. We&amp;rsquo;ll fetch data from the backend, create charts server-side, and send the chart options along with data to the frontend for display and filtering.</description>
     </item>
     <item>
       <title>Back-End common mistakes</title>
-      <link>/posts/backendmistakes/</link>
+      <link>//localhost:1313/posts/backendmistakes/</link>
       <pubDate>Mon, 13 May 2024 11:16:55 +0300</pubDate>
-      <guid>/posts/backendmistakes/</guid>
+      <guid>//localhost:1313/posts/backendmistakes/</guid>
       <description>Best Practices and Common Mistakes in Backend Development Backend development is crucial for building robust and scalable web applications. However, even experienced developers can make mistakes that impact performance, security, and maintainability. In this article, we&amp;rsquo;ll explore some common backend mistakes and how to avoid them, with a focus on Node.js, Express.js, Django, MongoDB, Firebase, and related technologies.
 Security Best Practices Input Validation: Always sanitize user inputs to prevent SQL injection, XSS attacks, and other security vulnerabilities.</description>
     </item>
     <item>
       <title>My Resume</title>
-      <link>/posts/post/</link>
+      <link>//localhost:1313/posts/post/</link>
       <pubDate>Mon, 13 May 2024 11:16:55 +0300</pubDate>
-      <guid>/posts/post/</guid>
+      <guid>//localhost:1313/posts/post/</guid>
       <description>Hi, I&amp;rsquo;m Saif Alshaiban About Me I&amp;rsquo;m a passionate Software Engineer with a strong foundation in Web development and Data science. My journey in technology began during my studies at Imam abdulrahman bin faisal university, where I graduated with a Bachelor of Science in Computer Science, achieving a GPA of 3.8/5. Since then, I&amp;rsquo;ve delved into various projects and roles, honing my skills and expanding my knowledge in Software engineering and managment.</description>
     </item>
   </channel>
